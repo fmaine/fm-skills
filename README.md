@@ -6,6 +6,7 @@ Mes petits skills, un dossier par skill. Chaque skill est un `SKILL.md` en markd
 |---|---|
 | `brainstorm` | Brainstorming à partir d'une question ouverte, en amont d'un projet |
 | `cadrage` | Cadrage d'un projet métier sur une page, pour aligner l'équipe projet |
+| `souvenirs` | Dépôt d'un souvenir de vie quand il remonte, dans un recueil qui grandit avec le temps |
 
 ## Installer sur une machine (Claude Code)
 
